@@ -4,11 +4,11 @@ VERSION=1_trans_128_cx
 
 ROOT="./"
 #LoadTrace_ROOT="./SampleData/LoadTraces"
-LoadTrace_ROOT="/home/lwj/TransFetch/traces"
+LoadTrace_ROOT="/home/lwj/MLPrefetcher/transfetch/traces"
 # OUTPUT_ROOT="./res"
-OUTPUT_ROOT="/home/lwj/TransFetch/res"
+OUTPUT_ROOT="/home/lwj/MLPrefetcher/transfetch/res"
 
-Python_ROOT=$ROOT"/TransFetch"
+Python_ROOT=$ROOT"TransFetch"
 
 # TRAIN=2
 # VAL=1

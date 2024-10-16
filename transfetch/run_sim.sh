@@ -2,15 +2,15 @@
 
 #VERSION=1_trans_3_trans_context_f1_64_16
 
-VERSION=3_trans_128_cx
+VERSION=1_trans_128_cx
 
 cd ./ChampSim
 
 ROOT="../"
 # ChampSimTrace_ROOT="../SampleData/ChampSimTraces"
-ChampSimTrace_ROOT="/home/lwj/TransFetch/traces"
+ChampSimTrace_ROOT="/home/lwj/MLPrefetcher/transfetch/traces"
 # OUTPUT_ROOT="../res"
-OUTPUT_ROOT="/home/lwj/TransFetch/res"
+OUTPUT_ROOT="/home/lwj/MLPrefetcher/transfetch/res"
 
 
 OUTPUT_PATH=$OUTPUT_ROOT/$VERSION/sim

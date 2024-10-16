@@ -77,3 +77,19 @@
 2024-10-08 19:12:10,710:INFO: Epoch: 7 - loss: 0.2869826261 - test_loss: 0.4276845205
 2024-10-08 19:12:10,710:INFO: Early Stop Left: 0
 2024-10-08 19:12:10,710:INFO: -------- Early Stop! --------
+2024-10-16 09:04:25,306:INFO: /home/lwj/MLPrefetcher/transfetch/traces/654.roms-s7.txt
+2024-10-16 09:05:40,687:INFO: -------------Data Proccessed------------
+2024-10-16 09:05:40,702:INFO: -------------Model Loaded------------
+2024-10-16 09:05:44,082:INFO: Epoch: 1 - loss: 0.2977069699 - test_loss: 0.4061098779
+2024-10-16 09:05:44,086:INFO: -------- Save Best Model! --------
+2024-10-16 09:05:47,208:INFO: Epoch: 2 - loss: 0.2943344591 - test_loss: 0.4090021887
+2024-10-16 09:05:47,208:INFO: Early Stop Left: 4
+2024-10-16 09:05:50,360:INFO: Epoch: 3 - loss: 0.2919206642 - test_loss: 0.4091025059
+2024-10-16 09:05:50,360:INFO: Early Stop Left: 3
+2024-10-16 09:05:53,476:INFO: Epoch: 4 - loss: 0.2902546656 - test_loss: 0.4155339861
+2024-10-16 09:05:53,476:INFO: Early Stop Left: 2
+2024-10-16 09:05:56,603:INFO: Epoch: 5 - loss: 0.2871163286 - test_loss: 0.4198643602
+2024-10-16 09:05:56,603:INFO: Early Stop Left: 1
+2024-10-16 09:05:59,782:INFO: Epoch: 6 - loss: 0.2856449902 - test_loss: 0.4307280607
+2024-10-16 09:05:59,782:INFO: Early Stop Left: 0
+2024-10-16 09:05:59,783:INFO: -------- Early Stop! --------
